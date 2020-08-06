@@ -15,4 +15,5 @@ echo "You got 3rd prize"
 
 else
 echo "Sorry, try for the next time"
+echo "count $151" 
 fi
