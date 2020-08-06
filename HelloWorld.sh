@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#entering lucky numeber
 echo "Enter your lucky number"
 read n
 
