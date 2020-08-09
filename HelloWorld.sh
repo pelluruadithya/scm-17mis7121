@@ -12,7 +12,7 @@ echo "You got 2nd prize"
 elif [ $n -eq 999 ];
 then
 echo "You got 3rd prize"
-
+echo "this code is for Aug-release"
 else
 echo "Sorry, try for the next time"
 echo "count $151" 
